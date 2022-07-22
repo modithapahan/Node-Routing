@@ -1,0 +1,23 @@
+{
+  "name": "node-routing",
+  "version": "1.0.0",
+  "description": "Discuss about Node.js &amp; Express.js routing part.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/modithapahan/Node-Routing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/modithapahan/Node-Routing/issues"
+  },
+  "homepage": "https://github.com/modithapahan/Node-Routing#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
